@@ -1,4 +1,4 @@
-# eject-all-disk
+# Eject All Disk
 AppleScript that can eject all disk.
 
 - With success notification
