@@ -5,4 +5,4 @@ AppleScript that can eject all disk.
 - With exclude option
 - Compatible with better touch tool
 
-Edit excludeDiskName list to specify excluded drive
+Edit `excludeDiskName` list to specify excluded drive
